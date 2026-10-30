@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+uploads/*
+memory/*
+!uploads/.gitkeep
+!memory/.gitkeep
